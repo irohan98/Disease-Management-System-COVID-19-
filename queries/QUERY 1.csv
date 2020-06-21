@@ -1,0 +1,11 @@
+TID,PID,FULLNAME,RESULT,P_SYMPTOMS,SAMPLEDATE,P_ADMITDATE,H_NAME,H_STATE
+78566,5689,"Kamesh G",P,"Normal Symptoms of cold, cought 
+and Breathing difficulty experienced during the initial phase","2020-03-21 18:00:00","2020-03-21 09:30:00","Kotbagi Hospital",Maharashtra
+78573,5690,"Madhav K",P,"Loss of breath, smell and taste","2020-03-26 18:00:00","2020-03-21 19:00:00","Gandhi Hopitals",Telangana
+78565,5691,"Lakshmi S",P,"Severe Breathing Difficulty","2020-03-22 09:45:00","2020-03-22 15:48:00","CITY HOSPITAL","Tamil Nadu"
+78568,5693,"Shekaram N",N,"Breathing problems","2020-03-19 18:00:00","2020-03-22 06:00:02","APOLLO HOSPITALS",Karnataka
+78572,5694,"Lekha K",P,"Severe Cough and Breathing problems","2020-03-19 18:00:00","2020-03-22 16:26:00","Rama Nursing Home","Andhra Pradesh"
+78574,5697,"Rejath P",P,"Severe Cough and Breathing problems","2020-04-16 18:00:00","2020-03-23 16:20:00","Guardian Multi Speciality Hospital",Telangana
+78569,5699,"Revathi J",P,"Severe Cough and signs of the virus","2020-03-19 18:00:00","2020-03-24 10:20:45","BGS GLOBAL HOSPITAL (BGS Health & Education City)",Karnataka
+78567,5702,"Karthik H",P,"Severe Cough and Breathing problems","2020-03-23 18:00:00","2020-03-25 18:17:00","Acharya Vinoba Bhave Rural Hospital",Maharashtra
+78575,5704,"Rahul R",P,"Breathing problems and loss of smell and taste","2020-03-26 18:00:00","2020-03-25 18:17:00"," Sraddha Hospital","Andhra Pradesh"

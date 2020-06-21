@@ -1,0 +1,16 @@
+SID,S_TYPE,STAFF_NAME,S_WARDNO,PATIENT_NAME,P_AGE,P_GENDER,P_ADMITDATE,P_IMPROVEMENTDATE,SUMMARY,STAFF_NUMBER,P_NATIONALITY
+1256,Doctor,"Rohan Varma",102,"Kamesh G",20,M,"2020-03-21 09:30:00","2020-04-25 19:00:00","Needs to be Quarantined",9564895326,Indian
+1258,Doctor,"Koushik Sharma",108,"Karthik H",29,M,"2020-03-25 18:17:00",NULL,"Needs Ventilator",9995556359,Indian
+1260,Doctor,"Sheela Jenson",203,"Lekha K",36,F,"2020-03-22 16:26:00","2020-03-30 17:09:00","Needs Attention",8899551654,Indian
+1260,Doctor,"Sheela Jenson",203,"Shiksha K",33,F,"2020-03-25 19:17:00",NULL,"Needs Ventilator",8899551654,Indian
+1262,Doctor,"Tara Singh",210,"Sushma K",36,F,"2020-03-22 16:15:00","2020-03-26 15:09:00","Observation needed",8954763214,Indian
+1262,Doctor,"Tara Singh",210,"Rekha S",45,F,"2020-03-22 06:26:00","2020-03-30 14:30:00","Needs to be Quarantined",8954763214,Indian
+1262,Doctor,"Tara Singh",210,"Rahul R",32,M,"2020-03-25 18:17:00",NULL,"Needs Ventilator",8954763214,Indian
+1264,Doctor,"Pooja Hedge",552,"Rejath P",44,M,"2020-03-23 16:20:00","2020-04-01 07:09:00","Needs to be Quarantined",7785694236,Indian
+1266,Doctor,"Preeti Singh",550,"Madhav K",24,M,"2020-03-21 19:00:00","2020-03-25 09:15:00","Needs to be Quarantined",8547123694,Indian
+1268,Doctor,"Mohit Jain",1762,"Lakshmi S",32,F,"2020-03-22 15:48:00","2020-04-14 17:19:40","Needs Ventilator",7896541230,Indian
+1270,Doctor,"Meha Jain",1788,"Shashank H",32,M,"2020-03-24 15:27:45",NULL,"Needs Ventilator",7896541230,Indian
+1272,Doctor,"Ruchitha Bhatia",2563,"Shekaram N",70,M,"2020-03-22 06:00:02","2020-03-30 17:39:00","Needs to be Quarantined",9996663256,Indian
+1272,Doctor,"Ruchitha Bhatia",2563,"Xiang Ping",74,M,"2020-03-23 23:20:00",NULL,"Critical Condition",9996663256,Chinese
+1274,Doctor,"Robert Daniels",1756,"Revathi J",43,F,"2020-03-24 10:20:45","2020-04-23 10:10:00","Observation Needed",8885324169,Indian
+1274,Doctor,"Robert Daniels",1756,"Manish M",55,M,"2020-03-24 12:20:45",NULL,"Needs Ventilator",8885324169,Indian
