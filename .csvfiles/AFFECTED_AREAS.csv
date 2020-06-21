@@ -1,0 +1,20 @@
+AID,A_Name,A_State,ROG_ZONE,A_Positive,A_Negative,A_Deaths,A_Recovery
+789,Kakinada,"Andhra Pradesh",R,6009,365,45,56
+790,Vijayawada,"Andhra Pradesh",R,6250,564,36,23
+791,Kachiguda,Telangana,R,5589,251,14,22
+792,"Bapuji Nagar",Karnataka,R,5984,333,15,56
+793,Kukatpally,Telangana,R,2568,120,51,12
+794,Chengalpattu,"Tamil Nadu",R,3376,52,56,21
+795,Kolhapur,Maharastra,R,3325,178,42,20
+796,Pune,Maharastra,R,6609,238,55,26
+797,Karimnagar,Telangana,O,526,56,25,15
+798,Nizamabad,Telangana,O,538,66,20,12
+799,Chikkaballapura,Karnataka,O,322,78,32,20
+800,Anantapur,"Andhra Pradesh",O,609,88,35,26
+801,Srikakulam,"Andhra Pradesh",O,854,65,25,16
+802,Coimbatore,"Tamil Nadu",O,525,62,16,32
+803,Theni,"Tamil Nadu",O,615,56,26,22
+804,Ameerpet,Telangana,G,0,0,0,0
+805,Hasan,Karnataka,G,0,0,0,0
+806,Solapur,Maharastra,G,0,0,0,0
+807,Vizianagaram,"Andhra Pradesh",G,0,0,0,0
