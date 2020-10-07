@@ -28,7 +28,13 @@ Relational database design can be sophisticated, hence it is required that the d
 architect breaks down the design plan into smaller parts and focuses on every minute detail.
 E-R diagrams help make the structure of the database simpler and easier to understand.
 
-Figure 2.1 represents the relationships of the various tables used in our model. This diagram
+<p align="center">
+    <img src="E-R Diagram.png">
+</p>
+
+<p align="center">Source: E-R Diagram.png</p>
+
+The above figure represents the relationships of the various tables used in our model. This diagram
 helps in drafting the code for this project. We have broken down our database design into six
 different entities
 namely:
